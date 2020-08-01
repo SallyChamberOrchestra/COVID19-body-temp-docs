@@ -10,6 +10,6 @@ permalink: /for_executives/
 ![](./imgs/notify.png)
 
 ※画像は「1日連続」「過去７日」となっているが変更可能
-* [全メンバー体温推移確認](https://sco-covid19.tk/dashboard/1)
+* [全メンバー体温推移確認](https://sco-covid19.tk/dashboard/2)
   * メールアドレス・パスワード：SCO googleアカウントに同じ
   * ※個人情報につき取り扱い注意
