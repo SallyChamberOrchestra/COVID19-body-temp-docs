@@ -8,7 +8,7 @@ SCOではコロナウイルスから団員の皆さんを守るため、参加�
 1. [プライバシーポリシー](https://sallychamberorchestra.github.io/COVID19-body-temp-docs/privacy_policy)をご一読ください
 2. [体温管理bot](https://lin.ee/UXFCFQ4)を友だちに追加  
 
-3. 体温をメッセージに入力して送信（毎日？）
+3. 体温をメッセージに入力して送信（毎日）
 ![](./imgs/register.jpg)
 ※SCO体温管理botから送られてくるURLをタップすることで、日々の体温推移が確認できます。  
 ※ダッシュボードは6:00-24:00の間のみアクセス可能です（深夜アクセス不可）。  
